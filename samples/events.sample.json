@@ -1,0 +1,17 @@
+[
+  {
+    "event_type": "deferral_change",
+    "amount": 1250.00,
+    "timestamp": "2025-10-22T14:10:00Z"
+  },
+  {
+    "event_type": "contribution_posted",
+    "amount": 619.59,
+    "timestamp": "2025-10-22T14:12:30Z"
+  },
+  {
+    "event_type": "deferral_change",
+    "amount": 800.00,
+    "timestamp": "2025-10-22T14:15:45Z"
+  }
+]
