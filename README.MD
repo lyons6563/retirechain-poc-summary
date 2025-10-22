@@ -19,11 +19,12 @@ This Proof-of-Concept (PoC) validates the foundation for a next-generation recor
 | Memo Format | `v1|event_type|base58(hash)|unix_ts` | Standardized | ✅ |
 | Environment | Solana Devnet | Testnet Ready | ✅ |
 
-**Sample Transactions (verify on Solscan):**
-- [Tx 1](https://solscan.io/tx/3Lhfc2MqAW6EsX7CJDYxuUGHKo99VowLqWPNDHEUUT3nA7DA5sheyXpGr74uXMp2pqKKVF7jKasE13uS8fUuhxW?cluster=devnet)
-- [Tx 2](https://solscan.io/tx/3fveBGB1Gxt9KH23r9Fzn4bVmP6rnWWEYb2MuZZ2VSy8T9k1yXidAbxxQKoMUrU6X8rVxyB3XchQRCx6MtTPp1FZ?cluster=devnet)
-- [Tx 3](https://solscan.io/tx/3Ycy7ngJa8RYw3NDuz1BRkS3kDWVNggTEHgNhW9uJaJcgmTm8wotSEkafW5qeYEwKNTt4DB39JUfyGB7jytMquhG?cluster=devnet)
 
+
+**Sample Transactions** (Live on Solana Devnet):
+- [Tx 1: Contribution Posted](https://solscan.io/tx/3Lhfc2MqAW6EsX7CJDYxuUGHKo99VowLqWPNDHEUUT3nA7DA5sheyXpGr74uXMp2pqKKVF7jKasE13uS8fUuhxW?cluster=devnet)
+- [Tx 2: Deferral Change](https://solscan.io/tx/3fveBGB1Gxt9KH23r9Fzn4bVmP6rnWWEYb2MuZZ2VSy8T9k1yXidAbxxQKoMUrU6X8rVxyB3XchQRCx6MtTPp1FZ?cluster=devnet)
+- [Tx 3: Contribution Posted](https://solscan.io/tx/3Ycy7ngJa8RYw3NDuz1BRkS3kDWVNggTEHgNhW9uJaJcgmTm8wotSEkafW5qeYEwKNTt4DB39JUfyGB7jytMquhG?cluster=devnet)
 ---
 
 ## 🧩 Architecture Overview
