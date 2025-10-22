@@ -61,7 +61,7 @@ Event JSON → Validation (schema, timestamp, amount) → Canonicalization (sort
 - **TPA Pilot Program** (Q1 2026)  
 - **Funding Target:** $50,000 for MVP + Pilot development  
 
-**Contact:** sam@retirechain.com  
+  
 **Topics:** blockchain, solana, fintech, recordkeeping, audit-proof  
 
 ---
