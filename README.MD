@@ -19,7 +19,7 @@ This Proof-of-Concept (PoC) validates the foundation for a next-generation recor
 | Memo Format | `v1|event_type|base58(hash)|unix_ts` | Standardized | ✅ |
 | Environment | Solana Devnet | Testnet Ready | ✅ |
 
-![Performance Chart](assets/performance-chart.png)
+[Performance Chart](assets/performance-chart.png)
 
 **Sample Transactions** (Live on Solana Devnet):
 - [Tx 1: Contribution Posted](https://solscan.io/tx/3Lhfc2MqAW6EsX7CJDYxuUGHKo99VowLqWPNDHEUUT3nA7DA5sheyXpGr74uXMp2pqKKVF7jKasE13uS8fUuhxW?cluster=devnet)
