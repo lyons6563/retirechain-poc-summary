@@ -59,11 +59,30 @@ Event JSON → Validation (schema, timestamp, amount) → Canonicalization (sort
 
 - **MVP Dashboard** (Jan 2026) – $2,500 build  
 - **TPA Pilot Program** (Q1 2026)  
-- **Funding Target:** $50,000 for MVP + Pilot development  
+- **Funding Target:** $50,000 for MVP + Pilot development 
 
-  
+
 **Topics:** blockchain, solana, fintech, recordkeeping, audit-proof  
 
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## 🪙 About RetireChain
+RetireChain is a blockchain-based proof-of-integrity system designed for the retirement plan ecosystem.  
+It eliminates costly data reconciliation and manual form processing by immutably recording plan events (like contributions and deferral changes) on the Solana blockchain — securely, instantly, and without exposing personal information.
+
+---
+
+## ⚡ Highlights
+- 5.2-second confirmation time  
+- 0.000005 SOL average cost  
+- 100% proof success rate (50/50 test runs)  
+- Immutable event logging without PII  
+- Audit-ready transparency layer for enterprise recordkeeping systems  
+
+---
+
+© 2025 RetireChain – All Rights Reserved
