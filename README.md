@@ -52,3 +52,47 @@ A five-layer validation and proof framework:
 - [Tx 3 – Contribution Posted](https://solscan.io/tx/3Ycy7ngJa8RYw3NDuz1BRkS3kDWVNggTEHgNhW9uJaJcgmTm8wotSEkafW5qeYEwKNTt4DB39JUfyGB7jytMquhG?cluster=devnet)
 
 **Memo Format:**  
+
+---
+
+## 🧠 What the PoC Proves
+✅ Validated event data can be cryptographically anchored to a public ledger  
+✅ Proofs confirm in < 6 seconds and cost ≈ $0.001 per event  
+✅ Zero PII exposure with full verifiability  
+✅ Architecture ready for API + dashboard integration (MVP Phase)
+
+---
+
+## 🗺️ Roadmap
+
+| Phase | Timeline | Deliverables |
+|-------|-----------|--------------|
+| **MVP Alpha** | Q1 2026 | REST API + PostgreSQL + web dashboard + mainnet test |
+| **Compliance Layer** | Q2 2026 | AI-driven anomaly detection & compliance metrics |
+| **Pilots & Partnerships** | Q3 – Q4 2026 | Integrations with recordkeepers & payroll providers |
+
+➡ For the full technical narrative and budget, read the [**Executive Summary (PDF)**](docs/Executive_Summary_10.25.pdf).
+
+---
+
+## 🧩 Tech Stack
+Node 18 · Python 3.10 · SHA-256 · Solana Web3.js / solana-py  
+JSON validation · canonicalization · CLI batch tests · PostgreSQL (Phase 2)
+
+---
+
+## 📈 Next Milestones
+- Build MVP dashboard & API integration ($15 k target budget)  
+- Conduct live pilot with mid-tier recordkeeper (Q1 2026)  
+- Apply for Solana Colosseum Hackathon & enterprise accelerators  
+
+---
+
+## 📬 Contact
+**Project Lead:** Sam Lyons  
+**Email:** [theretirechain@gmail.com](mailto:theretirechain@gmail.com)  
+**GitHub:** [lyons6563/retirechain-poc-summary](https://github.com/lyons6563/retirechain-poc-summary)
+
+---
+
+© 2025 RetireChain  · Open-source for enterprise integrity proofs
