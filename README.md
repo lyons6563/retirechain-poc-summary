@@ -51,7 +51,23 @@ A five-layer validation and proof framework:
 - [Tx 2 – Deferral Change](https://solscan.io/tx/3fveBGB1Gxt9KH23r9Fzn4bVmP6rnWWEYb2MuZZ2VSy8T9k1yXidAbxxQKoMUrU6X8rVxyB3XchQRCx6MtTPp1FZ?cluster=devnet)  
 - [Tx 3 – Contribution Posted](https://solscan.io/tx/3Ycy7ngJa8RYw3NDuz1BRkS3kDWVNggTEHgNhW9uJaJcgmTm8wotSEkafW5qeYEwKNTt4DB39JUfyGB7jytMquhG?cluster=devnet)
 
-**Memo Format:**  
+---
+
+## 🔍 Proof Reports
+
+**Batch Validation Summary**  
+All test runs achieved 100 % success with sub-6 s average confirmations and costs under 0.000005 SOL per transaction.
+
+| File | Description |
+|------|--------------|
+| [`report_final.json`](./reports/report_final.json) | Verified single-event batch report |
+| [`report_50.json`](./reports/report_50.json) | 50-run benchmark summary |
+| [`console.log`](./reports/console.log) | Console output showing canonical JSON, salt, and confirmation logs |
+
+---
+
+**Verification:**  
+All transactions can be cross-checked on Solana Devnet using the provided signatures inside each report file.
 
 ---
 
