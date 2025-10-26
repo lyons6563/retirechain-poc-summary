@@ -71,7 +71,7 @@ A five-layer validation and proof framework:
 | **Compliance Layer** | Q2 2026 | AI-driven anomaly detection & compliance metrics |
 | **Pilots & Partnerships** | Q3 – Q4 2026 | Integrations with recordkeepers & payroll providers |
 
-➡ For the full technical narrative and budget, read the [**Executive Summary (PDF)**](docs/Executive_Summary_10.25.pdf).
+➡ For the full technical narrative and budget, read the [**Executive Summary (PDF)**] docs/Executive Summary 10.25.pdf.
 
 ---
 
