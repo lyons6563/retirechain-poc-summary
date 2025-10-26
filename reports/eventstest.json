@@ -1,0 +1,22 @@
+{
+  "validEvents": [
+   {
+      "event_type": "contribution_posted",
+      "amount": 1333.2,
+      "timestamp": "2025-10-21T10:38:58Z",
+      "memo": "Event contribution_posted @ 1761043138"
+    },
+    {
+      "event_type": "deferral_change",
+      "amount": 2268.04,
+      "timestamp": "2025-10-21T16:22:28Z",
+      "memo": "Event deferral_change @ 1761063748"
+    },
+    {
+      "event_type": "contribution_posted",
+      "amount": 735.11,
+      "timestamp": "2025-10-22T06:54:48Z",
+      "memo": "Event contribution_posted @ 1761116088"
+    }
+  ]
+}
